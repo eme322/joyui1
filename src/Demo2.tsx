@@ -8,6 +8,7 @@ export default function Demo2() {
       <Button>Button hsdbhsbdfsh </Button>
       <Button disabled>Disabled</Button>
       <Button loading>Loading</Button>
+      <Button >Click me</Button>
     </Box>
   );
 }
