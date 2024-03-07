@@ -10,7 +10,7 @@ ReactDOM.createRoot(document.querySelector("#root")!).render(
       <CssVarsProvider>
         <Demo />
         <Demo />
-         <Demo2 /> 
+         <Demo2 />  
         <Demo2 /> 
         
       </CssVarsProvider>
