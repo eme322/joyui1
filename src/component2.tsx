@@ -7,7 +7,7 @@ interface InterfaceProps {
   title: string;
   buttonText: string;
   imageUrl: string;
-  onClick: () => void;
+  onClick: () => void; 
 }
 
 const Interface: React.FC<InterfaceProps> = ({
