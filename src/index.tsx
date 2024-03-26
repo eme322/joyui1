@@ -5,7 +5,7 @@ import Demo from './Demo';
 
 import Demo2 from './Demo2';
 
-import StepsSlider from './component2';
+// import StepsSlider from './component2';
 
 ReactDOM.createRoot(document.querySelector("#root")!).render(
   <React.StrictMode>
@@ -17,7 +17,7 @@ ReactDOM.createRoot(document.querySelector("#root")!).render(
          <Demo2 />  
         <Demo2 /> 
 
-        <StepsSlider />
+    //    <StepsSlider />
         
       </CssVarsProvider>
     </StyledEngineProvider>
