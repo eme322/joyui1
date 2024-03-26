@@ -2,9 +2,9 @@ import * as React from 'react';
 import Box from '@mui/joy/Box';
 //import Slider from '@mui/joy/Slider';
 import Button from '@mui/joy/Box';
-import { InterfaceProps } from './InterfaceProps'; // Adjust the path as per your project structure
 
-const Interface: React.FC<InterfaceProps> = ({
+
+
   title,
   buttonText,
   imageUrl,
@@ -19,7 +19,7 @@ const Interface: React.FC<InterfaceProps> = ({
   ); 
 };
 
-export default Interface;
+
 
 
 
