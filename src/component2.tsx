@@ -1,7 +1,7 @@
 import * as React from 'react';
 import Box from '@mui/joy/Box';
-import Slider from '@mui/joy/Slider';
-import Button from @mui/joy/Box';
+//import Slider from '@mui/joy/Slider';
+import Button from '@mui/joy/Box';
 
 const Interface: React.FC<InterfaceProps> = ({
   title,
