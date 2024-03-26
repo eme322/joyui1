@@ -15,7 +15,7 @@ const Interface: React.FC<InterfaceProps> = ({
       <img src={imageUrl} alt={title} style={{ width: '100%', height: 'auto' }} />
       <Button onClick={onClick}>{buttonText}</Button>
     </Box>
-  );
+  ); 
 };
 
 
